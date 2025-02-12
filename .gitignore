@@ -1,0 +1,4 @@
+.venv
+.env
+fix.patch
+__pycache__
